@@ -1,4 +1,4 @@
-# 🎭 Theater Cue Organizer
+# 🎭 Theater Cue Rename
 
 A simple Python + Tkinter app to **rename audio files into numbered theater cues** and **export a cue list (CSV)**.  
 Designed for small theater productions where each scene/act needs neatly ordered sound cues.
@@ -19,13 +19,15 @@ SceneName_Cue03.mp3
 
 ---
 
-1. Make sure you have **Python 3.8+** installed.
-2. Clone this repository:
- ```bash
- git clone https://github.com/AiLinh06/theater_cue_rename.git
- cd theater-cue-rename
-
- ```
+1. Make sure you have **Python 3.8+** installed.  
+2. Clone this repository:  
+   ```bash
+   git clone https://github.com/AiLinh06/theater_cue_rename.git
+   ```
+3. Run the program:  
+   ```bash
+   python main.py
+   ```
 ## **Usage**
 
 1. Place your raw audio files (`.mp3` or `.wav`) into a folder.  
