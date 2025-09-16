@@ -22,8 +22,8 @@ SceneName_Cue03.mp3
 1. Make sure you have **Python 3.8+** installed.
 2. Clone this repository:
  ```bash
- git clone https://github.com/AiLinh06/Theater_Cue_Rename.git
- cd theater-cue-organizer
+ git clone https://github.com/AiLinh06/theater_cue_rename.git
+ cd theater-cue-rename
 
  ```
 ## **Usage**
